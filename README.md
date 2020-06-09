@@ -1,3 +1,3 @@
 # Kỹ Thuật Lập Trình
 ## hust
-#### update: 7/6/20
+#### update: 9/6/20
