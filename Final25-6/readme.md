@@ -1,2 +1,3 @@
-##### Kỹ thuật lập trình
-![giphy (1)](https://user-images.githubusercontent.com/65671642/86482528-5782b680-bd7c-11ea-8e09-f822233e09ab.gif)
+#### Kỹ thuật lập trình
+![giphy](https://user-images.githubusercontent.com/65671642/86505674-16c58480-bdf2-11ea-9496-17bbbabb925c.gif)
+
