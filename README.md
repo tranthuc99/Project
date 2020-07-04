@@ -1,8 +1,3 @@
-# Kỹ Thuật Lập Trình
-## hust
-
-#### update: 13/6/20 11:46PM
-=======
-#### upload: 7/6/20
-update: 99,99% Complete
+#### Kỹ thuật lập trình
+![giphy](https://user-images.githubusercontent.com/65671642/86505674-16c58480-bdf2-11ea-9496-17bbbabb925c.gif)
 
